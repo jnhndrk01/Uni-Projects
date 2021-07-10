@@ -1,0 +1,4 @@
+/tmp/tmp.Ukn10X64zq/cmake-build-vm/CMakeFiles/edit_cache.dir
+/tmp/tmp.Ukn10X64zq/cmake-build-vm/CMakeFiles/client.dir
+/tmp/tmp.Ukn10X64zq/cmake-build-vm/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.Ukn10X64zq/cmake-build-vm/CMakeFiles/server.dir
